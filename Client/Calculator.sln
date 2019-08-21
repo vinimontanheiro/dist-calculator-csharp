@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Client", "Calculator.Client\Calculator.Client.csproj", "{6C7C33DA-D5C5-43FF-AD00-E079DF3236EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Shared", "Calculator.Shared\Calculator.Shared.csproj", "{B678E7E7-FD2D-45C4-94DB-1DAFE07A02DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7C33DA-D5C5-43FF-AD00-E079DF3236EF}.Debug|x86.ActiveCfg = Debug|x86
+		{6C7C33DA-D5C5-43FF-AD00-E079DF3236EF}.Debug|x86.Build.0 = Debug|x86
+		{6C7C33DA-D5C5-43FF-AD00-E079DF3236EF}.Release|x86.ActiveCfg = Release|x86
+		{6C7C33DA-D5C5-43FF-AD00-E079DF3236EF}.Release|x86.Build.0 = Release|x86
+		{B678E7E7-FD2D-45C4-94DB-1DAFE07A02DE}.Debug|x86.ActiveCfg = Debug|x86
+		{B678E7E7-FD2D-45C4-94DB-1DAFE07A02DE}.Debug|x86.Build.0 = Debug|x86
+		{B678E7E7-FD2D-45C4-94DB-1DAFE07A02DE}.Release|x86.ActiveCfg = Release|x86
+		{B678E7E7-FD2D-45C4-94DB-1DAFE07A02DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
